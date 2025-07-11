@@ -76,7 +76,7 @@ nav a:hover, nav a.active {
 /* Подвал */
 footer {
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
     background-color: #1a1a1a;
     position: fixed;
     bottom: 0;
